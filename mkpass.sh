@@ -11,6 +11,13 @@ cd cupp
 python cupp.py -i 
 mv *.txt $HOME/fb-bxi 
 echo '
+Fb - Bxi -  by 
+
+
+
+
+
+
 S
 P 
 I
@@ -27,6 +34,7 @@ B
 
 
 
+sleep(5)
 
 
 clear 
