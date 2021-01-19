@@ -8,5 +8,7 @@ pip install requests mechanize
 git clone https://github.com/Mebus/cupp 
 cd cupp 
 python cupp.py -i 
-mv *.txt $HOME/demo1/fb-Bxi
+lolcat -a -d 50 instacracker by spidey-fb 
+mv *.txt $HOME/fb-bxi 
+clear 
 
