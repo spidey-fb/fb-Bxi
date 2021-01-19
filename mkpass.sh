@@ -10,6 +10,23 @@ git clone https://github.com/Mebus/cupp
 cd cupp 
 python cupp.py -i 
 mv *.txt $HOME/fb-bxi 
-lolcat -a -d 40 spidey-fb
+echo '
+S
+P 
+I
+D
+E
+Y
+-
+F
+B
+'
+
+
+
+
+
+
+
 clear 
 
