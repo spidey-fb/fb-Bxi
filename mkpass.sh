@@ -34,7 +34,6 @@ B
 
 
 
-sleep(5)
 
 
 clear 
