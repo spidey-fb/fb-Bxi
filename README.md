@@ -10,7 +10,7 @@ bash mkpass.sh
 python fb-bxi.py
 
 * for further information/instructions follow us on other plateforms 
-# YouTube : super hackers 
+# YouTube : tech prover
 # Instagram : __legend__0.01
 # Telegram : https://t.me//binyamin_binni
 # blogspot : https://hackersspace77@blogspot.com
